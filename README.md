@@ -1,5 +1,5 @@
-### Hi there 👋
-
+### Hi there 👋 , I´m Ivan Rodríguez
+- 🌱 I’m currently learning ...
 <!--
 **RV411/RV411** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
